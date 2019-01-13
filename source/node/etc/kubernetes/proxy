@@ -1,0 +1,1 @@
+KUBELET_PROXY_ARGS="--config=/etc/kubernetes/kube-proxy.yaml"
